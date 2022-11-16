@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Toko Karya Seni</string>
+    <!--    <string name="deskription_menu">Ingredient</string>-->
+    <!--    <string name="ingredients">Ingredients</string>-->
+    <string name="price">Price</string>
+    <!--    <string name="Harga_Cenil">Harga Cenil</string>-->
+    <string name="ingredients">Ingredients</string>
+    <string name="Deskripsi">Deskripsi</string>
+    <string name="Harga_Pisang">1,7M</string>
+    <string name="Harga_Patung">Rp. 35000</string>
+    <string name="Isi_Patung">Patung adalah benda tiga dimensi karya manusia yang diakui secara khusus sebagai suatu karya seni. Orang yang menciptakan patung disebut pematung.</string>
+    <string name="Isi_Pisang">Instalasi seni tersebut hanya menampilkan pisang yang ditempel di dinding. Menurut Daily Mail, karya itu dijual dengan harga $ 120.000 atau Rp 1,7 miliar. Tentu dengan harga tersebut, banyak orang orang yang terkejut.</string>
+
+    <string name="navigation_drawer_open">Open Navigation Drawer</string>
+    <string name="navigation_drawer_close">Close Navigation Drawer</string>
+
+
+</resources>
